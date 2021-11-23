@@ -1,0 +1,531 @@
+﻿metric,week_id,year,count,week,class
+Demo,Week 1,2020,19,1,train
+Chat,Week 1,2020,72,1,train
+Signup,Week 1,2020,132,1,train
+Overall,Week 1,2020,223,1,train
+Direct,Week 1,2020,45,1,train
+Organic,Week 1,2020,56,1,train
+Paid,Week 1,2020,87,1,train
+APAC,Week 1,2020,36,1,train
+European Union,Week 1,2020,41,1,train
+North America,Week 1,2020,108,1,train
+Demo,Week 2,2020,70,2,train
+Chat,Week 2,2020,118,2,train
+Signup,Week 2,2020,279,2,train
+Overall,Week 2,2020,473,2,train
+Direct,Week 2,2020,85,2,train
+Organic,Week 2,2020,143,2,train
+Paid,Week 2,2020,175,2,train
+APAC,Week 2,2020,98,2,train
+European Union,Week 2,2020,138,2,train
+North America,Week 2,2020,190,2,train
+Demo,Week 3,2020,63,3,train
+Chat,Week 3,2020,117,3,train
+Signup,Week 3,2020,242,3,train
+Overall,Week 3,2020,424,3,train
+Direct,Week 3,2020,82,3,train
+Organic,Week 3,2020,132,3,train
+Paid,Week 3,2020,147,3,train
+APAC,Week 3,2020,84,3,train
+European Union,Week 3,2020,134,3,train
+North America,Week 3,2020,164,3,train
+Demo,Week 4,2020,66,4,train
+Chat,Week 4,2020,143,4,train
+Signup,Week 4,2020,257,4,train
+Overall,Week 4,2020,467,4,train
+Direct,Week 4,2020,91,4,train
+Organic,Week 4,2020,145,4,train
+Paid,Week 4,2020,151,4,train
+APAC,Week 4,2020,87,4,train
+European Union,Week 4,2020,125,4,train
+North America,Week 4,2020,199,4,train
+Demo,Week 5,2020,62,5,train
+Chat,Week 5,2020,111,5,train
+Signup,Week 5,2020,267,5,train
+Overall,Week 5,2020,444,5,train
+Direct,Week 5,2020,95,5,train
+Organic,Week 5,2020,131,5,train
+Paid,Week 5,2020,154,5,train
+APAC,Week 5,2020,102,5,train
+European Union,Week 5,2020,131,5,train
+North America,Week 5,2020,168,5,train
+Demo,Week 6,2020,95,6,train
+Chat,Week 6,2020,139,6,train
+Signup,Week 6,2020,276,6,train
+Overall,Week 6,2020,515,6,train
+Direct,Week 6,2020,98,6,train
+Organic,Week 6,2020,180,6,train
+Paid,Week 6,2020,175,6,train
+APAC,Week 6,2020,108,6,train
+European Union,Week 6,2020,142,6,train
+North America,Week 6,2020,203,6,train
+Demo,Week 7,2020,81,7,train
+Chat,Week 7,2020,155,7,train
+Signup,Week 7,2020,263,7,train
+Overall,Week 7,2020,502,7,train
+Direct,Week 7,2020,99,7,train
+Organic,Week 7,2020,152,7,train
+Paid,Week 7,2020,177,7,train
+APAC,Week 7,2020,100,7,train
+European Union,Week 7,2020,137,7,train
+North America,Week 7,2020,208,7,train
+Demo,Week 8,2020,88,8,train
+Chat,Week 8,2020,120,8,train
+Signup,Week 8,2020,281,8,train
+Overall,Week 8,2020,490,8,train
+Direct,Week 8,2020,94,8,train
+Organic,Week 8,2020,164,8,train
+Paid,Week 8,2020,167,8,train
+APAC,Week 8,2020,101,8,train
+European Union,Week 8,2020,128,8,train
+North America,Week 8,2020,201,8,train
+Demo,Week 9,2020,98,9,train
+Chat,Week 9,2020,109,9,train
+Signup,Week 9,2020,241,9,train
+Overall,Week 9,2020,458,9,train
+Direct,Week 9,2020,101,9,train
+Organic,Week 9,2020,117,9,train
+Paid,Week 9,2020,170,9,train
+APAC,Week 9,2020,88,9,train
+European Union,Week 9,2020,123,9,train
+North America,Week 9,2020,197,9,train
+Demo,Week 10,2020,92,10,train
+Chat,Week 10,2020,120,10,train
+Signup,Week 10,2020,222,10,train
+Overall,Week 10,2020,437,10,train
+Direct,Week 10,2020,78,10,train
+Organic,Week 10,2020,165,10,train
+Paid,Week 10,2020,139,10,train
+APAC,Week 10,2020,92,10,train
+European Union,Week 10,2020,121,10,train
+North America,Week 10,2020,183,10,train
+Demo,Week 11,2020,71,11,train
+Chat,Week 11,2020,130,11,train
+Signup,Week 11,2020,208,11,train
+Overall,Week 11,2020,410,11,train
+Direct,Week 11,2020,72,11,train
+Organic,Week 11,2020,131,11,train
+Paid,Week 11,2020,153,11,train
+APAC,Week 11,2020,78,11,train
+European Union,Week 11,2020,116,11,train
+North America,Week 11,2020,170,11,train
+Demo,Week 12,2020,69,12,train
+Chat,Week 12,2020,123,12,train
+Signup,Week 12,2020,201,12,train
+Overall,Week 12,2020,394,12,train
+Direct,Week 12,2020,84,12,train
+Organic,Week 12,2020,129,12,train
+Paid,Week 12,2020,125,12,train
+APAC,Week 12,2020,92,12,train
+European Union,Week 12,2020,113,12,train
+North America,Week 12,2020,155,12,train
+Demo,Week 13,2020,84,13,train
+Chat,Week 13,2020,123,13,train
+Signup,Week 13,2020,220,13,train
+Overall,Week 13,2020,429,13,train
+Direct,Week 13,2020,86,13,train
+Organic,Week 13,2020,136,13,train
+Paid,Week 13,2020,156,13,train
+APAC,Week 13,2020,89,13,train
+European Union,Week 13,2020,111,13,train
+North America,Week 13,2020,183,13,train
+Demo,Week 14,2020,130,14,train
+Chat,Week 14,2020,177,14,train
+Signup,Week 14,2020,240,14,train
+Overall,Week 14,2020,547,14,train
+Direct,Week 14,2020,106,14,train
+Organic,Week 14,2020,183,14,train
+Paid,Week 14,2020,200,14,train
+APAC,Week 14,2020,105,14,train
+European Union,Week 14,2020,151,14,train
+North America,Week 14,2020,214,14,train
+Demo,Week 15,2020,109,15,train
+Chat,Week 15,2020,154,15,train
+Signup,Week 15,2020,278,15,train
+Overall,Week 15,2020,543,15,train
+Direct,Week 15,2020,110,15,train
+Organic,Week 15,2020,162,15,train
+Paid,Week 15,2020,207,15,train
+APAC,Week 15,2020,101,15,train
+European Union,Week 15,2020,145,15,train
+North America,Week 15,2020,235,15,train
+Demo,Week 16,2020,124,16,train
+Chat,Week 16,2020,168,16,train
+Signup,Week 16,2020,276,16,train
+Overall,Week 16,2020,573,16,train
+Direct,Week 16,2020,108,16,train
+Organic,Week 16,2020,170,16,train
+Paid,Week 16,2020,232,16,train
+APAC,Week 16,2020,116,16,train
+European Union,Week 16,2020,155,16,train
+North America,Week 16,2020,233,16,train
+Demo,Week 17,2020,142,17,train
+Chat,Week 17,2020,152,17,train
+Signup,Week 17,2020,257,17,train
+Overall,Week 17,2020,551,17,train
+Direct,Week 17,2020,102,17,train
+Organic,Week 17,2020,183,17,train
+Paid,Week 17,2020,199,17,train
+APAC,Week 17,2020,124,17,train
+European Union,Week 17,2020,171,17,train
+North America,Week 17,2020,206,17,train
+Demo,Week 18,2020,136,18,train
+Chat,Week 18,2020,176,18,train
+Signup,Week 18,2020,226,18,train
+Overall,Week 18,2020,538,18,train
+Direct,Week 18,2020,98,18,train
+Organic,Week 18,2020,172,18,train
+Paid,Week 18,2020,209,18,train
+APAC,Week 18,2020,104,18,train
+European Union,Week 18,2020,131,18,train
+North America,Week 18,2020,235,18,train
+Demo,Week 19,2020,96,19,train
+Chat,Week 19,2020,153,19,train
+Signup,Week 19,2020,267,19,train
+Overall,Week 19,2020,518,19,train
+Direct,Week 19,2020,96,19,train
+Organic,Week 19,2020,172,19,train
+Paid,Week 19,2020,183,19,train
+APAC,Week 19,2020,104,19,train
+European Union,Week 19,2020,139,19,train
+North America,Week 19,2020,205,19,train
+Demo,Week 20,2020,114,20,train
+Chat,Week 20,2020,164,20,train
+Signup,Week 20,2020,259,20,train
+Overall,Week 20,2020,539,20,train
+Direct,Week 20,2020,93,20,train
+Organic,Week 20,2020,180,20,train
+Paid,Week 20,2020,198,20,train
+APAC,Week 20,2020,116,20,train
+European Union,Week 20,2020,136,20,train
+North America,Week 20,2020,214,20,train
+Demo,Week 21,2020,112,21,train
+Chat,Week 21,2020,148,21,train
+Signup,Week 21,2020,235,21,train
+Overall,Week 21,2020,495,21,train
+Direct,Week 21,2020,105,21,train
+Organic,Week 21,2020,183,21,train
+Paid,Week 21,2020,144,21,train
+APAC,Week 21,2020,111,21,train
+European Union,Week 21,2020,136,21,train
+North America,Week 21,2020,201,21,train
+Demo,Week 22,2020,118,22,train
+Chat,Week 22,2020,147,22,train
+Signup,Week 22,2020,232,22,train
+Overall,Week 22,2020,497,22,train
+Direct,Week 22,2020,92,22,train
+Organic,Week 22,2020,162,22,train
+Paid,Week 22,2020,166,22,train
+APAC,Week 22,2020,83,22,train
+European Union,Week 22,2020,132,22,train
+North America,Week 22,2020,206,22,train
+Demo,Week 23,2020,89,23,train
+Chat,Week 23,2020,147,23,train
+Signup,Week 23,2020,259,23,train
+Overall,Week 23,2020,495,23,train
+Direct,Week 23,2020,95,23,train
+Organic,Week 23,2020,179,23,train
+Paid,Week 23,2020,149,23,train
+APAC,Week 23,2020,115,23,train
+European Union,Week 23,2020,135,23,train
+North America,Week 23,2020,192,23,train
+Demo,Week 24,2020,100,24,train
+Chat,Week 24,2020,138,24,train
+Signup,Week 24,2020,200,24,train
+Overall,Week 24,2020,438,24,train
+Direct,Week 24,2020,106,24,train
+Organic,Week 24,2020,137,24,train
+Paid,Week 24,2020,142,24,train
+APAC,Week 24,2020,79,24,train
+European Union,Week 24,2020,127,24,train
+North America,Week 24,2020,195,24,train
+Demo,Week 25,2020,111,25,train
+Chat,Week 25,2020,146,25,train
+Signup,Week 25,2020,244,25,train
+Overall,Week 25,2020,502,25,train
+Direct,Week 25,2020,92,25,train
+Organic,Week 25,2020,176,25,train
+Paid,Week 25,2020,180,25,train
+APAC,Week 25,2020,104,25,train
+European Union,Week 25,2020,125,25,train
+North America,Week 25,2020,220,25,train
+Chat,Week 26,2020,111,26,train
+Demo,Week 26,2020,111,26,train
+Signup,Week 26,2020,211,26,train
+Overall,Week 26,2020,434,26,train
+Direct,Week 26,2020,86,26,train
+Organic,Week 26,2020,153,26,train
+Paid,Week 26,2020,148,26,train
+APAC,Week 26,2020,80,26,train
+European Union,Week 26,2020,125,26,train
+North America,Week 26,2020,159,26,train
+Demo,Week 27,2020,82,27,train
+Chat,Week 27,2020,154,27,train
+Signup,Week 27,2020,226,27,train
+Overall,Week 27,2020,462,27,train
+Direct,Week 27,2020,90,27,train
+Organic,Week 27,2020,150,27,train
+Paid,Week 27,2020,164,27,train
+APAC,Week 27,2020,89,27,train
+European Union,Week 27,2020,135,27,train
+North America,Week 27,2020,180,27,train
+Demo,Week 28,2020,103,28,train
+Chat,Week 28,2020,139,28,train
+Signup,Week 28,2020,230,28,train
+Overall,Week 28,2020,475,28,train
+Direct,Week 28,2020,98,28,train
+Organic,Week 28,2020,163,28,train
+Paid,Week 28,2020,166,28,train
+APAC,Week 28,2020,94,28,train
+European Union,Week 28,2020,138,28,train
+North America,Week 28,2020,188,28,train
+Demo,Week 29,2020,93,29,train
+Chat,Week 29,2020,142,29,train
+Signup,Week 29,2020,241,29,train
+Overall,Week 29,2020,477,29,train
+Direct,Week 29,2020,89,29,train
+Organic,Week 29,2020,173,29,train
+Paid,Week 29,2020,164,29,train
+APAC,Week 29,2020,117,29,train
+European Union,Week 29,2020,120,29,train
+North America,Week 29,2020,188,29,train
+Demo,Week 30,2020,87,30,train
+Chat,Week 30,2020,138,30,train
+Signup,Week 30,2020,233,30,train
+Overall,Week 30,2020,458,30,train
+Direct,Week 30,2020,108,30,train
+Organic,Week 30,2020,146,30,train
+Paid,Week 30,2020,157,30,train
+APAC,Week 30,2020,94,30,train
+European Union,Week 30,2020,120,30,train
+North America,Week 30,2020,190,30,train
+Demo,Week 31,2020,117,31,train
+Chat,Week 31,2020,123,31,train
+Signup,Week 31,2020,210,31,train
+Overall,Week 31,2020,451,31,train
+Direct,Week 31,2020,82,31,train
+Organic,Week 31,2020,129,31,train
+Paid,Week 31,2020,173,31,train
+APAC,Week 31,2020,93,31,train
+European Union,Week 31,2020,106,31,train
+North America,Week 31,2020,190,31,train
+Demo,Week 32,2020,99,32,train
+Chat,Week 32,2020,120,32,train
+Signup,Week 32,2020,226,32,train
+Overall,Week 32,2020,446,32,train
+Direct,Week 32,2020,88,32,train
+Organic,Week 32,2020,151,32,train
+Paid,Week 32,2020,157,32,train
+European Union,Week 32,2020,108,32,train
+APAC,Week 32,2020,110,32,train
+North America,Week 32,2020,180,32,train
+Demo,Week 33,2020,105,33,train
+Chat,Week 33,2020,116,33,train
+Signup,Week 33,2020,208,33,train
+Overall,Week 33,2020,430,33,train
+Direct,Week 33,2020,89,33,train
+Organic,Week 33,2020,118,33,train
+Paid,Week 33,2020,163,33,train
+APAC,Week 33,2020,86,33,train
+European Union,Week 33,2020,117,33,train
+North America,Week 33,2020,166,33,train
+Demo,Week 34,2020,103,34,train
+Chat,Week 34,2020,107,34,train
+Signup,Week 34,2020,220,34,train
+Overall,Week 34,2020,430,34,train
+Direct,Week 34,2020,80,34,train
+Organic,Week 34,2020,138,34,train
+Paid,Week 34,2020,165,34,train
+APAC,Week 34,2020,89,34,train
+European Union,Week 34,2020,112,34,train
+North America,Week 34,2020,183,34,train
+Chat,Week 35,2020,109,35,train
+Demo,Week 35,2020,114,35,train
+Signup,Week 35,2020,221,35,train
+Overall,Week 35,2020,445,35,train
+Direct,Week 35,2020,104,35,train
+Organic,Week 35,2020,138,35,train
+Paid,Week 35,2020,148,35,train
+APAC,Week 35,2020,92,35,train
+European Union,Week 35,2020,100,35,train
+North America,Week 35,2020,203,35,train
+Demo,Week 36,2020,104,36,train
+Chat,Week 36,2020,121,36,train
+Signup,Week 36,2020,219,36,train
+Overall,Week 36,2020,444,36,train
+Direct,Week 36,2020,91,36,train
+Organic,Week 36,2020,147,36,train
+Paid,Week 36,2020,149,36,train
+APAC,Week 36,2020,88,36,train
+European Union,Week 36,2020,110,36,train
+North America,Week 36,2020,192,36,train
+Demo,Week 37,2020,103,37,train
+Chat,Week 37,2020,139,37,train
+Signup,Week 37,2020,213,37,train
+Overall,Week 37,2020,455,37,train
+Direct,Week 37,2020,99,37,train
+Organic,Week 37,2020,156,37,train
+Paid,Week 37,2020,149,37,train
+APAC,Week 37,2020,92,37,train
+European Union,Week 37,2020,137,37,train
+North America,Week 37,2020,174,37,train
+Chat,Week 38,2020,112,38,train
+Demo,Week 38,2020,112,38,train
+Signup,Week 38,2020,251,38,train
+Overall,Week 38,2020,476,38,train
+Direct,Week 38,2020,122,38,train
+Organic,Week 38,2020,149,38,train
+Paid,Week 38,2020,128,38,train
+APAC,Week 38,2020,93,38,train
+European Union,Week 38,2020,122,38,train
+North America,Week 38,2020,190,38,train
+Demo,Week 39,2020,118,39,train
+Chat,Week 39,2020,123,39,train
+Signup,Week 39,2020,260,39,train
+Overall,Week 39,2020,503,39,train
+Direct,Week 39,2020,115,39,train
+Organic,Week 39,2020,150,39,train
+Paid,Week 39,2020,166,39,train
+APAC,Week 39,2020,108,39,train
+European Union,Week 39,2020,129,39,train
+North America,Week 39,2020,209,39,train
+Demo,Week 40,2020,99,40,train
+Chat,Week 40,2020,122,40,train
+Signup,Week 40,2020,225,40,train
+Overall,Week 40,2020,446,40,train
+Direct,Week 40,2020,109,40,train
+Organic,Week 40,2020,133,40,train
+Paid,Week 40,2020,148,40,train
+APAC,Week 40,2020,95,40,train
+European Union,Week 40,2020,115,40,train
+North America,Week 40,2020,181,40,train
+Chat,Week 41,2020,169,41,train
+Demo,Week 41,2020,183,41,train
+Signup,Week 41,2020,247,41,train
+Overall,Week 41,2020,599,41,train
+Direct,Week 41,2020,125,41,train
+Organic,Week 41,2020,214,41,train
+Paid,Week 41,2020,159,41,train
+European Union,Week 41,2020,146,41,train
+APAC,Week 41,2020,179,41,train
+North America,Week 41,2020,211,41,train
+Chat,Week 42,2020,128,42,train
+Demo,Week 42,2020,137,42,train
+Signup,Week 42,2020,222,42,train
+Overall,Week 42,2020,487,42,train
+Direct,Week 42,2020,99,42,train
+Organic,Week 42,2020,169,42,train
+Paid,Week 42,2020,164,42,train
+APAC,Week 42,2020,132,42,train
+European Union,Week 42,2020,134,42,train
+North America,Week 42,2020,154,42,train
+Demo,Week 43,2020,108,43,test
+Chat,Week 43,2020,125,43,test
+Signup,Week 43,2020,219,43,test
+Overall,Week 43,2020,452,43,test
+Direct,Week 43,2020,110,43,test
+Organic,Week 43,2020,115,43,test
+Paid,Week 43,2020,161,43,test
+APAC,Week 43,2020,104,43,test
+European Union,Week 43,2020,115,43,test
+North America,Week 43,2020,178,43,test
+Demo,Week 44,2020,98,44,test
+Chat,Week 44,2020,139,44,test
+Signup,Week 44,2020,237,44,test
+Overall,Week 44,2020,474,44,test
+Direct,Week 44,2020,95,44,test
+Organic,Week 44,2020,148,44,test
+Paid,Week 44,2020,161,44,test
+APAC,Week 44,2020,115,44,test
+European Union,Week 44,2020,124,44,test
+North America,Week 44,2020,181,44,test
+Chat,Week 45,2020,97,45,test
+Demo,Week 45,2020,110,45,test
+Signup,Week 45,2020,223,45,test
+Overall,Week 45,2020,430,45,test
+Direct,Week 45,2020,93,45,test
+Organic,Week 45,2020,141,45,test
+Paid,Week 45,2020,140,45,test
+APAC,Week 45,2020,83,45,test
+European Union,Week 45,2020,147,45,test
+North America,Week 45,2020,153,45,test
+Demo,Week 46,2020,120,46,test
+Chat,Week 46,2020,126,46,test
+Signup,Week 46,2020,226,46,test
+Overall,Week 46,2020,472,46,test
+Direct,Week 46,2020,92,46,test
+Organic,Week 46,2020,150,46,test
+Paid,Week 46,2020,155,46,test
+APAC,Week 46,2020,115,46,test
+European Union,Week 46,2020,145,46,test
+North America,Week 46,2020,165,46,test
+Demo,Week 47,2020,76,47,test
+Chat,Week 47,2020,99,47,test
+Signup,Week 47,2020,166,47,test
+Overall,Week 47,2020,341,47,test
+Direct,Week 47,2020,69,47,test
+Organic,Week 47,2020,109,47,test
+Paid,Week 47,2020,111,47,test
+APAC,Week 47,2020,72,47,test
+European Union,Week 47,2020,91,47,test
+North America,Week 47,2020,119,47,test
+Demo,Week 48,2020,,48,test
+Chat,Week 48,2020,,48,test
+Signup,Week 48,2020,,48,test
+Overall,Week 48,2020,,48,test
+Direct,Week 48,2020,,48,test
+Organic,Week 48,2020,,48,test
+Paid,Week 48,2020,,48,test
+APAC,Week 48,2020,,48,test
+European Union,Week 48,2020,,48,test
+North America,Week 48,2020,,48,test
+Demo,Week 49,2020,,49,test
+Chat,Week 49,2020,,49,test
+Signup,Week 49,2020,,49,test
+Overall,Week 49,2020,,49,test
+Direct,Week 49,2020,,49,test
+Organic,Week 49,2020,,49,test
+Paid,Week 49,2020,,49,test
+APAC,Week 49,2020,,49,test
+European Union,Week 49,2020,,49,test
+North America,Week 49,2020,,49,test
+Demo,Week 50,2020,,50,test
+Chat,Week 50,2020,,50,test
+Signup,Week 50,2020,,50,test
+Overall,Week 50,2020,,50,test
+Direct,Week 50,2020,,50,test
+Organic,Week 50,2020,,50,test
+Paid,Week 50,2020,,50,test
+APAC,Week 50,2020,,50,test
+European Union,Week 50,2020,,50,test
+North America,Week 50,2020,,50,test
+Demo,Week 51,2020,,51,test
+Chat,Week 51,2020,,51,test
+Signup,Week 51,2020,,51,test
+Overall,Week 51,2020,,51,test
+Direct,Week 51,2020,,51,test
+Organic,Week 51,2020,,51,test
+Paid,Week 51,2020,,51,test
+APAC,Week 51,2020,,51,test
+European Union,Week 51,2020,,51,test
+North America,Week 51,2020,,51,test
+Demo,Week 52,2020,,52,test
+Chat,Week 52,2020,,52,test
+Signup,Week 52,2020,,52,test
+Overall,Week 52,2020,,52,test
+Direct,Week 52,2020,,52,test
+Organic,Week 52,2020,,52,test
+Paid,Week 52,2020,,52,test
+APAC,Week 52,2020,,52,test
+European Union,Week 52,2020,,52,test
+North America,Week 52,2020,,52,test
+Demo,Week 53,2020,,53,test
+Chat,Week 53,2020,,53,test
+Signup,Week 53,2020,,53,test
+Overall,Week 53,2020,,53,test
+Direct,Week 53,2020,,53,test
+Organic,Week 53,2020,,53,test
+Paid,Week 53,2020,,53,test
+APAC,Week 53,2020,,53,test
+European Union,Week 53,2020,,53,test
+North America,Week 53,2020,,53,test
